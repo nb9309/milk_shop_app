@@ -2,7 +2,7 @@
 -> This is a backend code for e-commers website.
 -> In this website admin shows what milk products he has.
 -> Coustmer buy that products by seeing them on website.
--> 
+-> This is only backend code so we give output through CLI framework.
 ->Here we have 4 modules for this project.
 1) milk_products
    
@@ -32,6 +32,12 @@
    <img width="388" alt="image" src="https://github.com/user-attachments/assets/5cdd69b0-9608-4113-b835-fc984c13c18c" />
    <img width="426" alt="image" src="https://github.com/user-attachments/assets/298ce839-7344-43f3-9c20-5b89b8f642c3" />
 
+4) user_data
+
+   Through this module admin know the users data.
+   Admin can know, how many times an user buy the product and which product and also how much money he/she spended.
+
+    <img width="299" alt="image" src="https://github.com/user-attachments/assets/97c71d34-c396-41b9-97e4-584d9c28b968" />
 
    
    
